@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is again a commit!
 
 And here we go with commit #2
+=======
+This is my first commit!
+
+And here we go with commit #2!
+>>>>>>> 459c146 (changed test.txt and added second-commit.txt)
